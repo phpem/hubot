@@ -1,7 +1,6 @@
 [
   "hubot-diagnostics",
   "hubot-help",
-  "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-pugme",
@@ -11,5 +10,4 @@
   "hubot-shipit",
   "hubot-youtube",
   "hubot-dogeme",
-  "hubot-heroku-keepalive"
 ]
